@@ -73,7 +73,7 @@
     "maxerr": 100,
     "indent": 4,
 
-    "auto_indent",
+    "auto_indent": true,
     "indentpref": "spaces"
 
 }
