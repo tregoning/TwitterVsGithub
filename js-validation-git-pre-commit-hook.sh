@@ -41,6 +41,7 @@ if [[ ${EXIT_CODE} -ne 0 ]]; then
     echo "|                                               |"
     echo "| Git commit has been aborted.                  |"
     echo " ----------------------------------------------- "
+    echo ""
 fi
 
 exit $((${EXIT_CODE}))
