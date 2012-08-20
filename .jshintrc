@@ -66,14 +66,11 @@
 
 
     "nomen": false,
-    "onevar": true,
+    "onevar": false,
     "passfail": false,
     "white": true,
 
     "maxerr": 100,
-    "indent": 4,
-
-    "auto_indent": true,
-    "indentpref": "spaces"
+    "indent": 4
 
 }
